@@ -141,8 +141,8 @@ func main() {
 	}
 
 	// Define filenames
-	file1Name := "inuseserials.txt" // Change this to your desired filename
-	file2Name := "allserials.txt"   // Change this to your desired filename
+	file1Name := "file1.txt" // Change this to your desired filename
+	file2Name := "file2.txt"   // Change this to your desired filename
 
 	// Create game instance with custom file names
 	game := &Game{
